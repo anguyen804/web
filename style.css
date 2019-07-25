@@ -11,6 +11,7 @@ main {
 }
 
 aside {
+  grid-area: aside;
   background: #D3658A;
 }
 
@@ -19,6 +20,7 @@ article {
 }
 
 footer {
+  grid-area: footer;
   background: #772540;
   color: #fff;
 }
