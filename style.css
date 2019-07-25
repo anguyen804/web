@@ -16,7 +16,7 @@ aside {
 }
 
 article {
-  grid-area: article
+  grid-area: article;
   background: #ffffff;
 }
 
